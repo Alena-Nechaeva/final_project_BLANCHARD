@@ -1,3 +1,1 @@
 BLANCHARD Web Page is a captivating course project developed as part of the Web-layout basic course at SkillBox. This project showcases my proficiency in fundamental web technologies, including HTML5 and CSS, along with the utilization of various libraries such as accotdion.js, choises.js, inputmask, slider.js, justvalidate.js, and tippy.js. Through this endeavor, I aimed to create an aesthetically pleasing and interactive web page that demonstrates my skills in web design and development.
-
-![7F5y](https://github.com/Alena-Nechaeva/final_project_BLANCHARD/assets/100653761/b63d6299-5166-4bfa-86bb-6a07a26147f7)
